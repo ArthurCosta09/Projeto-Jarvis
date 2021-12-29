@@ -219,6 +219,6 @@ class Jarvis:
 ---
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/arthur-naz%C3%A1rio-da-costa-6478601a1/ "Arthur Nazário da Costa")
 
-:email: [Email](arthurnazariodacosta@gmail.com "Gmail")
+:email: arthurnazariodacosta@gmail.com
 
 :iphone: +55 (34) 99691-1251
